@@ -1,0 +1,24 @@
+{
+  "name": "@luccane/baileys",
+  "version": "1.0.0",
+  "description": "Luccane Baileys Mods - Anti Ban & Anti Limit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "baileys",
+    "whatsapp",
+    "luccane",
+    "bot",
+    "md"
+  ],
+  "author": "Luccane",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.0.0",
+    "fs-extra": "^11.0.0"
+  }
+}
